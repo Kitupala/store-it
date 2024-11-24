@@ -1,3 +1,6 @@
+# StoreIt - storage management 
+<br/>
+
 <img width="1436" alt="store_it" src="https://github.com/user-attachments/assets/0209dba6-02e8-4ad2-84c6-608f566bfa0b">
 
 
