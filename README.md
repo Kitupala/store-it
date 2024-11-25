@@ -1,8 +1,7 @@
-# StoreIt - storage management 
+# StoreIt
 <br/>
 
-<img width="1436" alt="store_it" src="https://github.com/user-attachments/assets/0209dba6-02e8-4ad2-84c6-608f566bfa0b">
-
+![store_it-rounded](https://github.com/user-attachments/assets/ca1e07e3-5483-4b0d-9886-c869482449aa)
 
 ## Description
 
@@ -37,10 +36,8 @@ A storage management and file sharing platform that lets users upload, organize,
 
 👉 Modern Responsive Design: A fresh and minimalist UI that emphasizes usability, ensuring a clean aesthetic across all devices.
 
-and many more, including the latest React 19, Next.js 15 and Appwrite features alongside code architecture and reusability
-
 
 ## Tutorial
-This repository is based on in-depth tutorial available on [YouTube](https://www.youtube.com/watch?v=lie0cr3wESQ) channel, JavaScript Mastery.
+This repository is based on in-depth tutorial available on [YouTube](https://www.youtube.com/watch?v=lie0cr3wESQ) by JavaScript Mastery.
 
 
